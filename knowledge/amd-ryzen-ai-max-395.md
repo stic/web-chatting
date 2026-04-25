@@ -40,8 +40,8 @@ AI compute — to a single mobile chip package.
 | Metric | Value |
 |--------|-------|
 | NPU (XDNA 2) | 50 TOPS[^1] |
-| Combined (CPU + GPU + NPU) | >300 TOPS (estimated)[^1] |
-| Microsoft Copilot+ PC | ✅ Eligible (exceeds 40 TOPS threshold) |
+| Combined (CPU + GPU + NPU) | Not yet verified / no sourced figure captured |
+| Microsoft Copilot+ PC | ✅ Eligible based on 50 TOPS NPU spec[^1] |
 
 ---
 

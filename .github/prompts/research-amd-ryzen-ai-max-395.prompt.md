@@ -51,9 +51,11 @@ After searching, identify:
 Produce a **proposed diff** or updated version of `knowledge/amd-ryzen-ai-max-395.md`
 following these rules:
 
-1. Keep the existing structure (frontmatter → Overview → Specifications → AI Performance
-   → Availability → Benchmarks → Sources).
-2. Add new sections only if the topic genuinely warrants one.
+1. Keep the existing structure used by the knowledge file (frontmatter → Overview
+   [including the specs table] → AI Performance → Availability → Benchmarks
+   → Open Questions → Research History → Sources).
+2. Add new sections only if the topic genuinely warrants one, and do not rename,
+   remove, or reshuffle existing sections just to match a different template.
 3. Update the `Last Updated` frontmatter field to today's date (`YYYY-MM-DD`).
 4. Append any new source URLs to the `## Sources` section, with a short description.
 5. Every factual claim must have a `[^n]` footnote referencing a URL in `## Sources`.

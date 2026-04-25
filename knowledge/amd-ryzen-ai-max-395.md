@@ -20,16 +20,16 @@ AI compute — to a single mobile chip package.
 
 | Attribute | Value |
 |-----------|-------|
-| Codename | Strix Halo |
-| Architecture | Zen 5 (CPU) + RDNA 3.5 (iGPU) |
-| CPU Cores / Threads | 16 cores / 32 threads |
+| Codename | Strix Halo *(unverified; confirm in first research run)* |
+| Architecture | Zen 5 (CPU) + RDNA 3.5 (iGPU) *(unverified; confirm in first research run)* |
+| CPU Cores / Threads | 16 cores / 32 threads *(unverified; confirm in first research run)* |
 | CPU Base / Boost | ~2.0 GHz base / up to 5.1 GHz boost[^1] |
 | iGPU | Radeon 890M – 40 CUs (RDNA 3.5)[^1] |
 | AI Engine (NPU) | XDNA 2 – up to 50 TOPS[^1] |
 | Memory | LPDDR5X, up to 128 GB unified[^1] |
 | Memory Bandwidth | Up to 256 GB/s[^1] |
-| TDP Range | 45 W – 120 W (cTDP configurable) |
-| Process Node | TSMC 4 nm |
+| TDP Range | 45 W – 120 W (cTDP configurable) *(unverified; confirm in first research run)* |
+| Process Node | TSMC 4 nm *(unverified; confirm in first research run)* |
 | Announced | CES 2025 (January 2025)[^2] |
 | General Availability | Early–Mid 2025 (OEM laptop launches)[^2] |
 

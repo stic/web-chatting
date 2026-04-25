@@ -1,0 +1,32 @@
+{
+  "name": "web-chatting – AMD Research Codespace",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "lts"
+    },
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "GitHub.vscode-pull-request-github",
+        "yzhang.markdown-all-in-one",
+        "bierner.markdown-preview-github-styles"
+      ],
+      "settings": {
+        "editor.formatOnSave": true,
+        "github.copilot.enable": {
+          "*": true
+        },
+        "chat.promptFilesLocations": {
+          ".github/prompts": true
+        }
+      }
+    }
+  },
+  "postCreateCommand": "echo '✅ Codespace ready – open .github/prompts/ in Copilot Chat to start researching AMD Ryzen AI Max+ 395'",
+  "remoteUser": "codespace"
+}

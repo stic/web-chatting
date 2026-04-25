@@ -53,7 +53,7 @@ AI compute — to a single mobile chip package.
 |-----|-------|---------------------|
 | ASUS | ROG Zephyrus G16 (2025) | Q1 2025[^2] |
 | Lenovo | ThinkPad X1 Extreme (rumoured) | TBC |
-| HP | Unknown | TBC |
+| HP | [Rumour – unconfirmed] Unknown | TBC |
 
 ---
 
